@@ -1,0 +1,11 @@
+application:
+  name: yoanna-project
+  project: getting-started
+  publicly_accessible: true
+  organization: QoveryCommunity
+routers:
+- name: main
+  routes:
+  - application_name: yoanna-project
+    paths:
+    - /
